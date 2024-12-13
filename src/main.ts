@@ -1,0 +1,1 @@
+console.log("pozdawiam mame michała")
